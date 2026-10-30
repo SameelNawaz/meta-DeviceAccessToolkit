@@ -1,0 +1,24 @@
+{
+  "name": "Meta Wearables DAT Gateway",
+  "short_name": "MetaDAT",
+  "description": "Mobile gateway for Meta Wearables DAT smart glasses proof of concept",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1120",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

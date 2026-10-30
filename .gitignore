@@ -1,0 +1,38 @@
+# Dependencies & Package Managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Runtime & Captured Uploads
+uploads/*
+!uploads/.gitkeep
+captures/
+temp/
+*.log
+
+# Android / Gradle
+.gradle/
+build/
+android/build/
+android/.gradle/
+android/local.properties
+android/*.iml
+.idea/
+*.ap_
+*.dex
+*.class
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini

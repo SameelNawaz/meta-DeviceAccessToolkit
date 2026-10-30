@@ -1,0 +1,19 @@
+{
+  "name": "meta-wearables-dat-poc",
+  "version": "1.0.0",
+  "description": "Meta Wearables Device Access Toolkit POC with Mock Device Kit, mobile app, and localhost ingestion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "meta-wearables",
+    "device-access-toolkit",
+    "dat",
+    "mock-device-kit",
+    "ray-ban-meta"
+  ],
+  "author": "",
+  "license": "MIT"
+}

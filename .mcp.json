@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wearables": {
+      "url": "https://mcp.developer.meta.com/wearables",
+      "transport": "http"
+    }
+  }
+}
